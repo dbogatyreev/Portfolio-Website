@@ -545,6 +545,16 @@ p1 {
     }
 }
 
+@media (max-width: 1161px) and (max-height: 937px) {
+    .navbar {
+        display: none;
+    }
+
+    .main-container {
+        padding-left: 20px;
+    }
+}
+
 .p4 {
     margin-top: 20px;
     text-align: center;
